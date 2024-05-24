@@ -27,7 +27,7 @@ To use this API, you will need to have MongoDB installed on your machine. You ca
 - **DELETE** `/api/users/:userId`: Delete a user by ID (bonus: associated thoughts are also deleted).
 
 ### Friends
-
+ (Currently Unavailable)
 - **POST** `/api/users/:userId/friends/:friendId`: Add a friend to a user's friend list.
 - **DELETE** `/api/users/:userId/friends/:friendId`: Remove a friend from a user's friend list.
 
